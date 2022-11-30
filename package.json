@@ -1,0 +1,27 @@
+{
+  "name": "nodejscrud",
+  "version": "1.0.0",
+  "description": "CRUD NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "celebrate": "^15.0.1",
+    "eslint": "^8.28.0",
+    "event-dispatch": "^0.4.1",
+    "express": "^4.18.2",
+    "jest": "^29.3.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.7.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.0",
+    "typedi": "^0.10.0",
+    "type": "module",
+    "winston": "^3.8.2"
+  }
+}
